@@ -12,17 +12,17 @@ try {
 }
 */
 
-const CACHE_NAME = 'evolution-cache-v1.0.1';
+const CACHE_NAME = 'reset-cache-v1.0.0';
 const urlsToCache = [
-  '/base-pwa-coaching/',
-  '/base-pwa-coaching/index.html',
-  '/base-pwa-coaching/config.js',
-  '/base-pwa-coaching/manifest.json',
-  '/base-pwa-coaching/theme.css',
-  '/base-pwa-coaching/data/defis.js',
-  '/base-pwa-coaching/core/style.css',
-  '/base-pwa-coaching/core/app.js',
-  '/base-pwa-coaching/core/notifications.js'
+  '/sekhamet-reset/',
+  '/sekhamet-reset/index.html',
+  '/sekhamet-reset/config.js',
+  '/sekhamet-reset/manifest.json',
+  '/sekhamet-reset/theme.css',
+  '/sekhamet-reset/data/defis.js',
+  '/sekhamet-reset/core/style.css',
+  '/sekhamet-reset/core/app.js',
+  '/sekhamet-reset/core/notifications.js'
 ];
 
 
