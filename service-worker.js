@@ -14,15 +14,15 @@ try {
 
 const CACHE_NAME = 'reset-cache-v1.0.0';
 const urlsToCache = [
-  '/sekhamet-reset/',
-  '/sekhamet-reset/index.html',
-  '/sekhamet-reset/config.js',
-  '/sekhamet-reset/manifest.json',
-  '/sekhamet-reset/theme.css',
-  '/sekhamet-reset/data/defis.js',
-  '/sekhamet-reset/core/style.css',
-  '/sekhamet-reset/core/app.js',
-  '/sekhamet-reset/core/notifications.js'
+  '/',
+  '/index.html',
+  '/config.js',
+  '/manifest.json',
+  '/theme.css',
+  '/data/defis.js',
+  '/core/style.css',
+  '/core/app.js',
+  '/core/notifications.js'
 ];
 
 
