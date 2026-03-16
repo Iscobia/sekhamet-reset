@@ -23,7 +23,7 @@ window.DEFAULT_APP_ID = "reset";
 window.TECH_SUPPORT_EMAIL = "contact@sekhamet.com";
 
 // Ordre de progression par défault
-window.PROGRAM_FLOW = ["reset]
+window.PROGRAM_FLOW = ["reset];
 
 // OneSignal : laisser sur false tant que tu veux seulement les notifs natives
 window.ENABLE_ONESIGNAL = false;
