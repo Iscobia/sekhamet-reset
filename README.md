@@ -1,2 +1,2 @@
-# sekhamet-reset
-RESET - Application pour découvrir mon univers de coaching
+# base-pwa-coaching
+Moteur des PWA : ORIGINE, ENVELOPPE, EMERGENCE et EVOLUTION
